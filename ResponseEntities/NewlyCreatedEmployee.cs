@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace GfK_TestAutomationTask2_NUnit
+namespace SampleAPITestAutomationProjectInDotnetCore
 {
 
     public class NewlyCreatedEmployee
