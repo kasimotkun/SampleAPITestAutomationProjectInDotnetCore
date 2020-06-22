@@ -4,7 +4,7 @@ using RestSharp;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 
-namespace GfK_TestAutomationTask2_NUnit
+namespace SampleAPITestAutomationProjectInDotnetCore
 {
     public class APITests
     {
